@@ -200,9 +200,8 @@ This isn't just better security — it's a fundamentally different way of archit
 
 **The code works. The math is sound. The implications are profound.**
 
-```
-📚 Repository: https://github.com/smartlegionlab/pointer-based-security-paradigm
-📄 Whitepaper: https://github.com/smartlegionlab/pointer-based-security-paradigm/blob/suvorov-the-pointer-based-security-paradigm.pdf
-```
+[📚 Repository](https://github.com/smartlegionlab/pointer-based-security-paradigm)
+
+[📄 Whitepaper](https://github.com/smartlegionlab/pointer-based-security-paradigm/blob/master/suvorov-the-pointer-based-security-paradigm.pdf)
 
 *"The most secure data is the data that never exists as a vulnerable entity."*
