@@ -1,4 +1,4 @@
-# The Pointer-Based Security Paradigm 
+# The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence
 
 ## A Practical Shift from Data Protection to Data Non-Existence
 
