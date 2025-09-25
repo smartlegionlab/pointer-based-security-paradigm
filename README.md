@@ -202,6 +202,6 @@ This isn't just better security — it's a fundamentally different way of archit
 
 [📚 Repository](https://github.com/smartlegionlab/pointer-based-security-paradigm)
 
-[📄 Whitepaper](https://github.com/smartlegionlab/pointer-based-security-paradigm/blob/master/suvorov-the-pointer-based-security-paradigm.pdf)
+[📄 Whitepaper](https://github.com/smartlegionlab/pointer-based-security-paradigm/blob/master/docs/suvorov-the-pointer-based-security-paradigm-v2.pdf)
 
 *"The most secure data is the data that never exists as a vulnerable entity."*
