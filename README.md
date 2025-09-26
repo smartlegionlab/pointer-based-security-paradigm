@@ -1,5 +1,23 @@
 # The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence
 
+> **DOI:** [10.5281/zenodo.17204737](https://doi.org/10.5281/zenodo.17204737) | 
+> **Published:** September 26, 2025
+
+## 📚 Academic Publication
+
+This paradigm is now formally published. Cite as:
+
+```bibtex
+@article{suvorov2025pointer,
+  author = {Suvorov, Alexander},
+  title = {The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence},
+  year = {2025},
+  doi = {10.5281/zenodo.17204737}
+}
+```
+
+---
+
 ## A Practical Shift from Data Protection to Data Non-Existence
 
 > **We don't protect data. We architect systems where vulnerable data never exists.**
@@ -228,40 +246,31 @@ python -c "from smartpasslib import SmartPasswordMaster; print(SmartPasswordMast
 
 ---
 
-## 📜 Legal & Academic
+## 📚 Academic Publication
 
-**BSD 3-Clause License** - Copyright (c) 2025, Alexander Suvorov
+> **DOI:** [10.5281/zenodo.17204737](https://doi.org/10.5281/zenodo.17204737) | 
+> **Published:** September 26, 2025
 
-This work demonstrates a security architecture paradigm shift using only standard cryptographic primitives (NIST-approved). Intended for academic research and legal personal use.
+This paradigm is now formally published. Cite as:
 
-> **Disclaimer**: This paradigm represents architectural research. Users are responsible for compliance with applicable laws regarding cryptography in their jurisdiction.
-
----
-
-## 🌟 Join the Architectural Shift
-
-This isn't just better security — it's a fundamentally different way of architecting digital systems. When there's nothing to steal, theft becomes impossible. When there's nothing to intercept, surveillance becomes useless.
-
-**The code works. The math is sound. The implications are profound.**
-
----
-
-## 📚 Academic References
-
-**Full Research Paper:** [`suvorov-the-pointer-based-security-paradigm`](https://github.com/smartlegionlab/pointer-based-security-paradigm/blob/master/docs/suvorov-the-pointer-based-security-paradigm-v2.pdf)
-
-**Cite This Work:**
 ```bibtex
 @article{suvorov2025pointer,
-  title={The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence},
-  author={Suvorov, Alexander},
-  year={2025},
-  url={https://github.com/smartlegionlab/pointer-based-security-paradigm}
+  author = {Suvorov, Alexander},
+  title = {The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence},
+  year = {2025},
+  doi = {10.5281/zenodo.17204737}
 }
 ```
 
+
 ---
+
+**Full Research Paper:** [`suvorov-the-pointer-based-security-paradigm`](https://github.com/smartlegionlab/pointer-based-security-paradigm/blob/master/docs/suvorov-the-pointer-based-security-paradigm-v2.pdf)
 
 [Article on dev.to](https://dev.to/smartlegionlab/the-pointer-based-security-paradigm-a-practical-shift-from-data-protection-to-data-non-existence-h82)
 
 *"The most secure data is the data that never exists as a vulnerable entity."*
+
+---
+
+Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution 4.0 International.
