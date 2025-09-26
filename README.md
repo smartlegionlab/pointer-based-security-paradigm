@@ -44,7 +44,11 @@ A critical threat where the pointer channel itself could be compromised.
 
 Side-Channel Attacks:
 These remain a challenge for any cryptographic system and are not inherently solved by this paradigm. 
-In essence, the pointer-based paradigm is a practical evolution in data security, moving away from traditional methods of protecting vast amounts of data towards a model that controls access at the point of a user-held credential, making data non-existent to the unauthorized." - Google AI Analysis, 2025
+In essence, the pointer-based paradigm is a practical evolution in data security, moving away from traditional methods of protecting vast amounts of data towards a model that controls access at the point of a user-held credential, making data non-existent to the unauthorized.
+
+" - Google AI Analysis, 2025
+
+---
 
 ---
 
@@ -241,6 +245,24 @@ This work demonstrates a security architecture paradigm shift using only standar
 This isn't just better security — it's a fundamentally different way of architecting digital systems. When there's nothing to steal, theft becomes impossible. When there's nothing to intercept, surveillance becomes useless.
 
 **The code works. The math is sound. The implications are profound.**
+
+---
+
+## 📚 Academic References
+
+**Full Research Paper:** [`suvorov-the-pointer-based-security-paradigm`](https://github.com/smartlegionlab/pointer-based-security-paradigm/blob/master/docs/suvorov-the-pointer-based-security-paradigm-v2.pdf)
+
+**Cite This Work:**
+```bibtex
+@article{suvorov2025pointer,
+  title={The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence},
+  author={Suvorov, Alexander},
+  year={2025},
+  url={https://github.com/smartlegionlab/pointer-based-security-paradigm}
+}
+```
+
+---
 
 [📚 Repository](https://github.com/smartlegionlab/pointer-based-security-paradigm)
 
