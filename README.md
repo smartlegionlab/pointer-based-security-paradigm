@@ -244,24 +244,6 @@ python -c "from smartpasslib import SmartPasswordMaster; print(SmartPasswordMast
 - **[SmartPassLib](https://github.com/smartlegionlab/smartpasslib)**: Deterministic authentication  
 - **[Complete Implementation Stack](https://github.com/smartlegionlab)**: [Web](https://github.com/smartlegionlab/smart-password-manager), [desktop](https://github.com/smartlegionlab/smart-password-manager-desktop), [CLI](https://github.com/smartlegionlab/clipassman)
 
----
-
-## 📚 Academic Publication
-
-> **DOI:** [10.5281/zenodo.17204737](https://doi.org/10.5281/zenodo.17204737) | 
-> **Published:** September 26, 2025
-
-This paradigm is now formally published. Cite as:
-
-```bibtex
-@article{suvorov2025pointer,
-  author = {Suvorov, Alexander},
-  title = {The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence},
-  year = {2025},
-  doi = {10.5281/zenodo.17204737}
-}
-```
-
 
 ---
 
