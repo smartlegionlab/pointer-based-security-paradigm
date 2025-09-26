@@ -50,8 +50,6 @@ In essence, the pointer-based paradigm is a practical evolution in data security
 
 ---
 
----
-
 ## 🎯 Core Innovation
 
 **Traditional security** thinks in objects: protect the message, protect the password, protect the key.  
@@ -264,8 +262,6 @@ This isn't just better security — it's a fundamentally different way of archit
 
 ---
 
-[📚 Repository](https://github.com/smartlegionlab/pointer-based-security-paradigm)
-
-[📄 Whitepaper](https://github.com/smartlegionlab/pointer-based-security-paradigm/blob/master/docs/suvorov-the-pointer-based-security-paradigm-v2.pdf)
+[Article on dev.to](https://dev.to/smartlegionlab/the-pointer-based-security-paradigm-a-practical-shift-from-data-protection-to-data-non-existence-h82)
 
 *"The most secure data is the data that never exists as a vulnerable entity."*
