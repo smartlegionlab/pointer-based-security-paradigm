@@ -20,6 +20,9 @@ This paradigm is now formally published. Cite as:
   url          = {https://doi.org/10.5281/zenodo.17204738},
 }
 ```
+
+Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution 4.0 International.
+
 ---
 
 ## A Practical Shift from Data Protection to Data Non-Existence
