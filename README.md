@@ -1,6 +1,6 @@
 # The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence
 
-> **DOI:** [10.5281/zenodo.17204737](https://doi.org/10.5281/zenodo.17204737) | 
+> **DOI:** [10.5281/zenodo.17204738](https://doi.org/10.5281/zenodo.17204738) | 
 > **Published:** September 26, 2025
 
 ## 📚 Academic Publication
@@ -12,7 +12,7 @@ This paradigm is now formally published. Cite as:
   author = {Suvorov, Alexander},
   title = {The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence},
   year = {2025},
-  doi = {10.5281/zenodo.17204737}
+  doi = {10.5281/zenodo.17204738}
 }
 ```
 
