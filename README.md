@@ -1,5 +1,13 @@
 # The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence
 
+Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution 4.0 International.
+
+---
+
+The paradigm presents a fundamental shift in digital security architecture: from protecting vulnerable data to designing systems where such data never exists in vulnerable states. Instead of asking "how do we better protect this data?", we ask "how do we architect systems where this data doesn't exist as a vulnerable entity?"
+
+---
+
 ## ⚠️ Disclaimer
 
 *This work represents theoretical research in security architecture. It presents a conceptual paradigm, not production-ready software. The ideas should be evaluated through academic peer review before any practical application.*
