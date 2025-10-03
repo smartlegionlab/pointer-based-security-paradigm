@@ -4,28 +4,33 @@ Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution
 
 ---
 
+## ⚠️ CRITICAL RESEARCH DISCLAIMER
+
+**THIS IS PURELY THEORETICAL RESEARCH - NOT FOR PRACTICAL USE**
+
+### 🚫 STRICT LEGAL AND SECURITY WARNINGS
+- ❌ **NOT** production-ready software or security solutions
+- ❌ **NOT** audited by security professionals or cryptographers  
+- ❌ **NOT** recommended for protecting any information
+- ❌ **NO WARRANTIES** of any kind - use at your own risk
+- ❌ **ACADEMIC DISCUSSION ONLY** - conceptual framework
+- ❌ **NO LIABILITY** for any damages, legal issues, or security breaches
+- ❌ **RESEARCH COMPLETED** - no ongoing development or support
+
+### 🔬 Research Purpose Only
+This repository contains **completed academic research** (September 2025) exploring theoretical security paradigms. All experimental implementations have been removed following research validation.
+
+---
+
+## 🎯 Abstract
+
 The paradigm presents a fundamental shift in digital security architecture: from protecting vulnerable data to designing systems where such data never exists in vulnerable states. Instead of asking "how do we better protect this data?", we ask "how do we architect systems where this data doesn't exist as a vulnerable entity?"
-
----
-
-## ⚠️ Disclaimer
-
-*This work represents theoretical research in security architecture. It presents a conceptual paradigm, not production-ready software. The ideas should be evaluated through academic peer review before any practical application.*
-
----
-
-**Research Completion Notice:** This theoretical security paradigm concludes a comprehensive research project conducted throughout 2025. All experimental implementations and supporting materials that served their research purpose have been removed following successful validation of the core concepts.
-
-**Current Status:** The paradigm itself remains academically valid and open for discussion. The primary research output—the architectural framework and security model—has been formally published and is available through the citation below.
-
-> **Academic Research Project**  
-> DOI: [10.5281/zenodo.17204738](https://doi.org/10.5281/zenodo.17204738)
 
 ## 📚 Publication
 
 This repository contains materials for the academic paper:
 
-**"The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence"**
+**"[The Pointer-Based Security Paradigm](https://doi.org/10.5281/zenodo.17204738): Architectural Shift from Data Protection to Data Non-Existence"**
 
 ### Citation
 ```bibtex
@@ -41,9 +46,7 @@ This repository contains materials for the academic paper:
 }
 ```
 
-## 🎯 Abstract
-
-The paradigm presents a fundamental shift in digital security architecture: from protecting vulnerable data to designing systems where such data never exists in vulnerable states. Instead of asking "how do we better protect this data?", we ask "how do we architect systems where this data doesn't exist as a vulnerable entity?"
+**DOI:** [10.5281/zenodo.17204738](https://doi.org/10.5281/zenodo.17204738)
 
 ## 🔬 Core Concepts
 
@@ -67,9 +70,7 @@ The paradigm presents a fundamental shift in digital security architecture: from
 
 **Completed academic research** (September 2025). This repository contains the theoretical framework and research materials.
 
-## ⚠️ Important Note
-
-This is a **theoretical paradigm and academic research**. It explores architectural concepts in digital security through mathematical and philosophical frameworks.
+**Note:** All experimental implementations that served their research purpose have been removed following successful validation of core concepts. The paradigm remains academically valid for discussion.
 
 ## 📜 License
 
