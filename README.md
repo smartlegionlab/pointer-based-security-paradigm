@@ -14,8 +14,6 @@ The paradigm presents a fundamental shift in digital security architecture: from
 
 ---
 
-*Article updated: September 2025 - Academic research publication*
-
 **Research Completion Notice:** This theoretical security paradigm concludes a comprehensive research project conducted throughout 2025. All experimental implementations and supporting materials that served their research purpose have been removed following successful validation of the core concepts.
 
 **Current Status:** The paradigm itself remains academically valid and open for discussion. The primary research output—the architectural framework and security model—has been formally published and is available through the citation below.
