@@ -4,21 +4,34 @@ Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution
 
 ---
 
-## ⚠️ CRITICAL RESEARCH DISCLAIMER
+## ⚠️ LEGAL DISCLAIMER AND RESEARCH STATUS
 
-**THIS IS PURELY THEORETICAL RESEARCH - NOT FOR PRACTICAL USE**
+**🚫 THIS IS PURELY THEORETICAL RESEARCH - NOT FOR PRACTICAL USE**
 
-### 🚫 STRICT LEGAL AND SECURITY WARNINGS
-- ❌ **NOT** production-ready software or security solutions
-- ❌ **NOT** audited by security professionals or cryptographers  
-- ❌ **NOT** recommended for protecting any information
-- ❌ **NO WARRANTIES** of any kind - use at your own risk
-- ❌ **ACADEMIC DISCUSSION ONLY** - conceptual framework
-- ❌ **NO LIABILITY** for any damages, legal issues, or security breaches
-- ❌ **RESEARCH COMPLETED** - no ongoing development or support
+### 🚫 STRICT LEGAL WARNINGS
+- ❌ **NO WARRANTIES** of any kind, express or implied
+- ❌ **NO LIABILITY** for any damages, losses, or legal issues  
+- ❌ **NOT** security-audited, cryptographically verified, or production-ready
+- ❌ **NOT** recommended for protecting any information or systems
+- ❌ **NO TECHNICAL SUPPORT** or ongoing development
+
+### 📚 Permitted Use Only
+- ✅ **ACADEMIC DISCUSSION** - conceptual framework without implementations
+- ✅ **SCIENTIFIC RESEARCH** - theoretical exploration of concepts
+- ✅ **EDUCATIONAL PURPOSES** - understanding foundational principles
 
 ### 🔬 Research Purpose Only
-This repository contains **completed academic research** (September 2025) exploring theoretical security paradigms. All experimental implementations have been removed following research validation.
+This work contains **theoretical academic research** exploring foundational concepts in information theory. All content is provided for academic discussion and scientific inquiry without any representations or warranties regarding:
+
+- **Security**: No security guarantees or protections
+- **Reliability**: No performance or reliability assurances  
+- **Accuracy**: No guarantees of mathematical or theoretical correctness
+- **Fitness**: Not suitable for any practical purpose
+
+### 📜 Legal Disclaimer
+THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+THIS RESEARCH IS PROVIDED FOR ACADEMIC DISCUSSION ONLY AND DOES NOT CONSTITUTE PROFESSIONAL ADVICE, SECURITY RECOMMENDATIONS, OR PRACTICAL IMPLEMENTATION GUIDANCE.
 
 ---
 
