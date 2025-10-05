@@ -1,6 +1,22 @@
 # The Pointer-Based Security Paradigm: Architectural Shift from Data Protection to Data Non-Existence
 
-Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution 4.0 International.
+---
+
+## 🎯 Abstract
+
+The paradigm presents a fundamental shift in digital security architecture: from protecting vulnerable data to designing systems where such data never exists in vulnerable states. Instead of asking "how do we better protect this data?", we ask "how do we architect systems where this data doesn't exist as a vulnerable entity?"
+
+---
+
+## 🔗 Connected Paradigm
+
+### The Local Data Regeneration Paradigm  
+**Ontological Shift from Data Transmission to Synchronous State Discovery**
+
+This work is fundamentally connected to the **Local Data Regeneration Paradigm**, which provides the theoretical foundation for synchronous data discovery.
+
+**📄 Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17264327)  
+**💻 Code:** [GitHub Repository](https://github.com/smartlegionlab/local-data-regeneration-paradigm)
 
 ---
 
@@ -34,10 +50,6 @@ THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIN
 THIS RESEARCH IS PROVIDED FOR ACADEMIC DISCUSSION ONLY AND DOES NOT CONSTITUTE PROFESSIONAL ADVICE, SECURITY RECOMMENDATIONS, OR PRACTICAL IMPLEMENTATION GUIDANCE.
 
 ---
-
-## 🎯 Abstract
-
-The paradigm presents a fundamental shift in digital security architecture: from protecting vulnerable data to designing systems where such data never exists in vulnerable states. Instead of asking "how do we better protect this data?", we ask "how do we architect systems where this data doesn't exist as a vulnerable entity?"
 
 ## 📚 Publication
 
@@ -85,6 +97,11 @@ This repository contains materials for the academic paper:
 
 **Note:** All experimental implementations that served their research purpose have been removed following successful validation of core concepts. The paradigm remains academically valid for discussion.
 
+## 👨‍💻 Author
+
+**Alexander Suvorov**  
+- GitHub: [smartlegionlab](https://github.com/smartlegionlab)
+
 ## 📜 License
 
 Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution 4.0 International.
@@ -92,3 +109,23 @@ Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution
 ---
 
 *"We don't create information—we discover mathematical truths that have always existed."*
+
+---
+
+## 🔗 Related Research
+
+### Foundational Work
+This paradigm builds upon the theoretical framework established in:
+
+**"[The Local Data Regeneration Paradigm: Ontological Shift from Data Transmission to Synchronous State Discovery](https://doi.org/10.5281/zenodo.17264327)"**
+
+- **Theoretical Foundation**: Provides the ontological basis for data as discoverable state
+- **Information Theory**: Challenges classical transmission models
+- **Implementation**: Experimental validation available in separate repository
+
+### Research Ecosystem
+- **Pointer-Based Security**: Architectural security through data non-existence
+- **Local Data Regeneration**: Information theory through synchronous discovery  
+- **Connected Paradigms**: Mutually reinforcing theoretical frameworks
+
+**Explore both paradigms for complete understanding of the research direction.**
