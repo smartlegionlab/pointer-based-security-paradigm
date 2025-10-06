@@ -100,7 +100,7 @@ This repository contains materials for the academic paper:
 ## 👨‍💻 Author
 
 **Alexander Suvorov**  
-- Email: - [![Email](https://img.shields.io/badge/📧-smartlegionlab@gmail.com-blue)](mailto:smartlegionlab@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/📧-smartlegionlab@gmail.com-blue)](mailto:smartlegionlab@gmail.com)
 
 ## 📜 License
 
