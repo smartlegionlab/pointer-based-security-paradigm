@@ -1,5 +1,20 @@
 # The Pointer-Based Security Paradigm
 
+---
+
+**Architectural Shift from Data Protection to Data Non-Existence**
+
+---
+
+## Abstract
+
+A fundamental rethinking of digital security architecture that eliminates vulnerable data existence rather than protecting it through conventional encryption and access control mechanisms.
+
+> *Published: September 26, 2025*  
+> *Status: Theoretical Research*
+
+---
+
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17204738-blue)](https://doi.org/10.5281/zenodo.17204738)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Research Paper](https://img.shields.io/badge/📄_Research_Paper-Zenodo-success)](https://zenodo.org/records/17204738)
@@ -10,14 +25,20 @@
 [![Paradigm Research](https://img.shields.io/badge/🔬_Paradigm_Research-Theoretical-orange)](https://github.com/smartlegionlab/pointer-based-security-paradigm)
 [![Published](https://img.shields.io/badge/📅_Published-September_26,_2025-brightgreen)](https://doi.org/10.5281/zenodo.17204738)
 
-**Architectural Shift from Data Protection to Data Non-Existence**
+---
 
-> *Published: September 26, 2025*  
-> *Status: Theoretical Research*
+## ⚠️ Legal Disclaimer & Research Status
 
-## Abstract
+**ACADEMIC RESEARCH - NOT FOR PRACTICAL USE**
 
-A fundamental rethinking of digital security architecture that eliminates vulnerable data existence rather than protecting it through conventional encryption and access control mechanisms.
+**This is theoretical research, not production software.**
+
+> **Warning:** This work is for academic discussion only. Do not use in production systems.
+
+**Full academic disclaimer:** See [DISCLAIMER.md](DISCLAIMER.md)
+
+---
+
 
 ## Research Links
 
@@ -25,11 +46,15 @@ A fundamental rethinking of digital security architecture that eliminates vulner
 - **💻 Code:** [GitHub Repository](https://github.com/smartlegionlab/pointer-based-security-paradigm)
 - **📖 Article:** [dev.to Technical Deep Dive](https://dev.to/smartlegionlab/the-pointer-based-security-paradigm-a-practical-shift-from-data-protection-to-data-non-existence-h82)
 
+---
+
 ## Core Transformations
 
 1. **From Data Transmission to Synchronous Discovery** - Information emerges through pointer-based coordination
 2. **From Secret Storage to Deterministic Regeneration** - Authentication via proof of knowledge
 3. **From Attack Surface Protection to Architectural Elimination** - Security through surface removal
+
+---
 
 ## Connected Research
 
@@ -44,16 +69,6 @@ A fundamental rethinking of digital security architecture that eliminates vulner
 
 - **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17383447)  
 - **Code:** [GitHub Repository](https://github.com/smartlegionlab/deterministic-game-engine-report)
-
-## ⚠️ Legal Disclaimer & Research Status
-
-**ACADEMIC RESEARCH - NOT FOR PRACTICAL USE**
-
-**This is theoretical research, not production software.**
-
-> **Warning:** This work is for academic discussion only. Do not use in production systems.
-
-**Full academic disclaimer:** See [DISCLAIMER.md](DISCLAIMER.md)
 
 ## Publication Details
 
@@ -70,8 +85,6 @@ A fundamental rethinking of digital security architecture that eliminates vulner
 
 ---
 
-*"We don't create information—we discover mathematical truths that have always existed."*
-
 ## License
 
 This research paper and all accompanying documents are licensed under
@@ -80,3 +93,8 @@ This research paper and all accompanying documents are licensed under
 ## Copyright
 
 Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution 4.0 International.
+
+---
+
+*"We don't create information—we discover mathematical truths that have always existed."*
+
