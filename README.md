@@ -39,62 +39,113 @@ A fundamental rethinking of digital security architecture that eliminates vulner
 
 ---
 
+## Publication Details
 
-## Research Links
+| Detail        | Information                                                        |
+|---------------|--------------------------------------------------------------------|
+| **Title**     | The Pointer-Based Security Paradigm                                |
+| **DOI**       | [10.5281/zenodo.17204738](https://doi.org/10.5281/zenodo.17204738) |
+| **Published** | September 26, 2025                                                 |
+| **License**   | Creative Commons Attribution 4.0 International                     |
+| **Author**    | Alexander Suvorov                                                  |
+| **ORCID**     | [0009-0006-3427-9611](https://orcid.org/0009-0006-3427-9611)       |
+| **Type**      | Theoretical Research                                               |
 
-- **📄 Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17204738)
-- **💻 Code:** [GitHub Repository](https://github.com/smartlegionlab/pointer-based-security-paradigm)
-- **📖 Article:** [dev.to Technical Deep Dive](https://dev.to/smartlegionlab/the-pointer-based-security-paradigm-a-practical-shift-from-data-protection-to-data-non-existence-h82)
+## Download & Access
+
+| Format              | Link                                                                                                                                                             |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 📄 **PDF Download** | [Download from Zenodo](https://zenodo.org/records/17204738/files/suvorov_pointer_based_security_paradigm.pdf?download=1)                                         |
+| 📖 **Read Online**  | [Zenodo Record](https://doi.org/10.5281/zenodo.17204738)                                                                                                         |
+| 💻 **Source Code**  | [GitHub Repository](https://github.com/smartlegionlab/pointer-based-security-paradigm)                                                                           |
+| 📰 **Article**      | [dev.to Technical Deep Dive](https://dev.to/smartlegionlab/the-pointer-based-security-paradigm-a-practical-shift-from-data-protection-to-data-non-existence-h82) |
+
+## Author Information
+
+| Contact     | Information                                                  |
+|-------------|--------------------------------------------------------------|
+| **Name**    | Alexander Suvorov                                            |
+| **Website** | [alexander-suvorov.ru](https://alexander-suvorov.ru)         |
+| **GitHub**  | [smartlegionlab](https://github.com/smartlegionlab)          |
+| **Email**   | smartlegionlab@gmail.com                                     |
+| **ORCID**   | [0009-0006-3427-9611](https://orcid.org/0009-0006-3427-9611) |
 
 ---
 
 ## Core Transformations
 
-1. **From Data Transmission to Synchronous Discovery** - Information emerges through pointer-based coordination
-2. **From Secret Storage to Deterministic Regeneration** - Authentication via proof of knowledge
-3. **From Attack Surface Protection to Architectural Elimination** - Security through surface removal
+| From                      | To                         |
+|---------------------------|----------------------------|
+| Data Transmission         | Synchronous Discovery      |
+| Secret Storage            | Deterministic Regeneration |
+| Attack Surface Protection | Architectural Elimination  |
+
+### Detailed Transformations
+
+1. **From Data Transmission to Synchronous Discovery**  
+   Information emerges through pointer-based coordination rather than being transmitted and stored
+
+2. **From Secret Storage to Deterministic Regeneration**  
+   Authentication via proof of knowledge rather than stored credentials
+
+3. **From Attack Surface Protection to Architectural Elimination**  
+   Security through removal of vulnerable data existence
 
 ---
 
 ## Connected Research
 
+### Pointer-Based Security Paradigm
+**Architectural Shift from Data Protection to Data Non-Existence**
+
+- **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17204738)
+- **Code:** [GitHub Repository](https://github.com/smartlegionlab/pointer-based-security-paradigm)
+
 ### The Local Data Regeneration Paradigm  
 **Ontological Foundation for Synchronous Discovery**
 
-- **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17264327)  
+- **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17264327)
 - **Code:** [GitHub Repository](https://github.com/smartlegionlab/local-data-regeneration-paradigm)
 
 ### Deterministic Game Engine  
 **Practical Implementation and Experimental Validation**
 
-- **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17383447)  
+- **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17383447)
 - **Code:** [GitHub Repository](https://github.com/smartlegionlab/deterministic-game-engine-report)
 
-## Publication Details
+---
 
-- **DOI:** `10.5281/zenodo.17204738`
-- **Published:** September 26, 2025
-- **License:** Creative Commons Attribution 4.0 International
-- **Author:** Alexander Suvorov ([ORCID](https://orcid.org/0009-0006-3427-9611))
+## Practical Implementation
 
-## Connect
+The Pointer-Based Security Paradigm has been implemented in the **Smart Password Ecosystem**:
 
-- **Website:** https://alexander-suvorov.ru
-- **Email:** smartlegionlab@gmail.com
-- **ORCID:** [0009-0006-3427-9611](https://orcid.org/0009-0006-3427-9611)
+| Component                                                                                   | Description                | Cross-Platform   |
+|---------------------------------------------------------------------------------------------|----------------------------|------------------|
+| [smartpasslib](https://github.com/smartlegionlab/smartpasslib)                              | Core Python library        | Python           |
+| [smartpasslib-js](https://github.com/smartlegionlab/smartpasslib-js)                        | JavaScript implementation  | JS               |
+| [smartpasslib-kotlin](https://github.com/smartlegionlab/smartpasslib-kotlin)                | Kotlin implementation      | Kotlin           |
+| [smartpasslib-go](https://github.com/smartlegionlab/smartpasslib-go)                        | Go implementation          | Go               |
+| [smartpasslib-csharp](https://github.com/smartlegionlab/smartpasslib-csharp)                | C# implementation          | C#               |
+| [Desktop Manager](https://github.com/smartlegionlab/smart-password-manager-desktop)         | Desktop application        | Linux            |
+| [Desktop Manager (C#)](https://github.com/smartlegionlab/SmartPasswordManagerCsharpDesktop) | Desktop application        | Windows          |
+| [CLI PassMan](https://github.com/smartlegionlab/clipassman)                                 | Console password manager   | Cross-platform   |
+| [CLI PassGen](https://github.com/smartlegionlab/clipassgen)                                 | Console password generator | Cross-platform   |
+| [Web Manager](https://github.com/smartlegionlab/smart-password-manager-web)                 | Web interface              | Any browser      |
+| [Android Manager](https://github.com/smartlegionlab/smart-password-manager-android)         | Mobile application         | Android          |
 
 ---
 
 ## Cross-Platform Compatibility
 
-smartpasslib produces **identical passwords** to:
+The paradigm's practical implementation produces **identical passwords** across all platforms:
 
-| Platform   | Repository                                                                                                                |
-|------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Platform   | Implementation                                                                                                            |
+|------------|---------------------------------------------------------------------------------------------------------------------------|
 | Python     | [smartpasslib](https://github.com/smartlegionlab/smartpasslib)                                                            |
 | JavaScript | [smartpasslib-js](https://github.com/smartlegionlab/smartpasslib-js)                                                      |
 | Kotlin     | [smartpasslib-kotlin](https://github.com/smartlegionlab/smartpasslib-kotlin)                                              |
 | Go         | [smartpasslib-go](https://github.com/smartlegionlab/smartpasslib-go)                                                      |
+| C#         | [smartpasslib-csharp](https://github.com/smartlegionlab/smartpasslib-csharp)                                              |
 | Web        | [Web Manager](https://github.com/smartlegionlab/smart-password-manager-web)                                               |
 | Android    | [Android Manager](https://github.com/smartlegionlab/smart-password-manager-android)                                       |
 | Desktop    | [Desktop Manager](https://github.com/smartlegionlab/smart-password-manager-desktop)                                       |
@@ -102,20 +153,21 @@ smartpasslib produces **identical passwords** to:
 
 ---
 
-## Ecosystem
+## Citation
 
-**Core Libraries:**
-- **[smartpasslib](https://github.com/smartlegionlab/smartpasslib)** - Python implementation
-- **[smartpasslib-js](https://github.com/smartlegionlab/smartpasslib-js)** - JavaScript implementation
-- **[smartpasslib-kotlin](https://github.com/smartlegionlab/smartpasslib-kotlin)** - Kotlin implementation
-- **[smartpasslib-go](https://github.com/smartlegionlab/smartpasslib-go)** - Go implementation
-
-**Applications:**
-- **[Desktop Manager](https://github.com/smartlegionlab/smart-password-manager-desktop)** - Cross-platform desktop app
-- **[CLI PassMan](https://github.com/smartlegionlab/clipassman)** - Console password manager
-- **[CLI PassGen](https://github.com/smartlegionlab/clipassgen)** - Console password generator
-- **[Web Manager](https://github.com/smartlegionlab/smart-password-manager-web)** - Web interface
-- **[Android Manager](https://github.com/smartlegionlab/smart-password-manager-android)** - Mobile Android app
+```bibtex
+@misc{suvorov_2025_17204738,
+  author       = {Suvorov, Alexander},
+  title        = {The Pointer-Based Security Paradigm: Architectural
+                   Shift from Data Protection to Data Non-Existence
+                  },
+  month        = sep,
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17204738},
+  url          = {https://doi.org/10.5281/zenodo.17204738},
+}
+```
 
 ---
 
@@ -131,4 +183,5 @@ Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution
 ---
 
 *"We don't create information—we discover mathematical truths that have always existed."*
+
 
