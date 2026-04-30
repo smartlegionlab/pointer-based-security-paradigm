@@ -95,17 +95,17 @@ A fundamental rethinking of digital security architecture that eliminates vulner
 
 ## Connected Research
 
-### Pointer-Based Security Paradigm
-**Architectural Shift from Data Protection to Data Non-Existence**
-
-- **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17204738)
-- **Code:** [GitHub Repository](https://github.com/smartlegionlab/pointer-based-security-paradigm)
-
 ### The Local Data Regeneration Paradigm  
 **Ontological Foundation for Synchronous Discovery**
 
 - **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17264327)
 - **Code:** [GitHub Repository](https://github.com/smartlegionlab/local-data-regeneration-paradigm)
+
+### Position-Candidate-Hypothesis (PCH) Paradigm 
+**Position-Candidate-Hypothesis (PCH) is a theoretical paradigm for structural-statistical analysis of NP-complete problems.**
+
+- **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17614888)
+- **Code:** [GitHub Repository](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm)
 
 ### Deterministic Game Engine  
 **Practical Implementation and Experimental Validation**
