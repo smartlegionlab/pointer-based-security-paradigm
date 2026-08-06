@@ -62,12 +62,12 @@ and mathematical deniability through architectural design rather than cryptograp
 
 ## Download & Access
 
-| Format              | Link                                                                                                                                                             |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 📄 **PDF Download** | [Download from Zenodo](https://zenodo.org/records/17204738/files/suvorov_pointer_based_security_paradigm.pdf?download=1)                                         |
-| 📖 **Read Online**  | [Zenodo Record](https://doi.org/10.5281/zenodo.17204738)                                                                                                         |
-| 💻 **Source Code**  | [GitHub Repository](https://github.com/smartlegionlab/pointer-based-security-paradigm)                                                                           |
-| 📰 **Article**      | [dev.to Technical Deep Dive](https://dev.to/smartlegionlab/the-pointer-based-security-paradigm-a-practical-shift-from-data-protection-to-data-non-existence-h82) |
+| Format              | Link                                                                                                                                                               |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 📄 **PDF Download** | [Download from Zenodo](https://zenodo.org/records/17204738/files/suvorov-the-pointer-based-security-paradigm-v2.pdf?download=1)                                    |
+| 📖 **Read Online**  | [Zenodo Record](https://doi.org/10.5281/zenodo.17204738)                                                                                                           |
+| 💻 **Source Code**  | [GitHub Repository](https://github.com/smartlegionlab/pointer-based-security-paradigm)                                                                             |
+| 📰 **Article**      | [dev.to Technical Deep Dive](https://dev.to/smartlegionlab/the-pointer-based-security-paradigm-a-practical-shift-from-data-protection-to-data-non-existence-h82)   |
 
 ## Author Information
 
