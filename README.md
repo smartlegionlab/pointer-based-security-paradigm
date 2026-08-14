@@ -74,7 +74,7 @@ and mathematical deniability through architectural design rather than cryptograp
 | Contact     | Information                                                  |
 |-------------|--------------------------------------------------------------|
 | **Name**    | Alexander Suvorov                                            |
-| **Website** | [alexander-suvorov.ru](https://alexander-suvorov.ru)         |
+| **Website** | [smartlegionlab.ru](https://smartlegionlab.ru)               |
 | **GitHub**  | [smartlegionlab](https://github.com/smartlegionlab)          |
 | **Email**   | smartlegionlab@gmail.com                                     |
 | **ORCID**   | [0009-0006-3427-9611](https://orcid.org/0009-0006-3427-9611) |
